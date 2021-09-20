@@ -1,0 +1,13 @@
+{
+  "name": "@vertexvis/prettier-config",
+  "version": "1.0.0",
+  "description": "Vertex's shared Prettier config.",
+  "main": ".prettierrc.js",
+  "repository": "git@github.com:Vertexvis/prettier-config.git",
+  "author": "Dan Schultz <dan.schultz@vertexvis.com>",
+  "bugs": {
+    "url": "https://github.com/vertexvis/prettier-config/issues"
+  },
+  "homepage": "https://github.com/vertexvis/prettier-config#readme",
+  "license": "MIT"
+}
